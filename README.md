@@ -1,6 +1,4 @@
 # Exam Requirements
-
-## Exam
 Be sure to read the <small>[KEA Curriculum](http://www.kea.dk/fileadmin/user_upload/Uddannelser/Computer_Science/Curriculum_Computer_Science.pdf) (p. 23 - 24)</small> before the exam.   
 For the Danish speaking students <small>([Studieordning](http://www.kea.dk/fileadmin/user_upload/Uddannelser/Studieordninger/update_15/KEA_Studieordning_Datamatiker_01-08-2014.pdf)  (s. 24-25)</small>)
 

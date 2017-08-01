@@ -1,16 +1,16 @@
 # Exam Requirements
 Be sure to read the <small>[KEA Curriculum](http://www.kea.dk/fileadmin/user_upload/Uddannelser/Computer_Science/Curriculum_Computer_Science.pdf) (p. 23 - 24)</small> before the exam.   
-For the Danish speaking students <small>([Studieordning](http://www.kea.dk/fileadmin/user_upload/Uddannelser/Studieordninger/update_15/KEA_Studieordning_Datamatiker_01-08-2014.pdf)  (s. 24-25)</small>)
+For the Danish speaking students <small>([Studieordning](http://www.kea.dk/fileadmin/user_upload/Uddannelser/Damatiker/KEA_Studieordning_Datamatiker_01-07-2015.pdf)  (s. 24-25)</small>)
 
 **Prerequisites for being able to take the examination**  
 The courses [2 mandatory assignments](/7/) has to be passed before you can attend the final exam. 
 
 **Examinations and Preparation**   
-The Exam in this elective is an oral examination. The examination is graded according to the 7-grade scale.
+The Exam in this elective is an oral examination. The examination is graded according to the 7-grade scale.   
 
-The examination is carried out as follows: A single overall grade is given on the basis of an overall evaluation of the presentation and the subsequent examination.
+The grade is given on the basis of what the student knows of the curiculumn in this elective
 
-The examination starts with a 10-minute presentation. The student is then examined for 20 minutes, including voting.
+The examination starts with a short presentation of the project you decided to bring. The student is then examined for 20 minutes, including voting.
 
 **At the exam you will be evaluated on:**
 

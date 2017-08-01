@@ -8,9 +8,11 @@ The courses [2 mandatory assignments](/7/) has to be passed before you can atten
 **Examinations and Preparation**   
 The Exam in this elective is an oral examination. The examination is graded according to the 7-grade scale.   
 
-The grade is given on the basis of what the student knows of the curiculumn in this elective
+One aggregate grade is awarded based on an overall assessment of the presentation and the following examination.    
 
-The examination starts with a short presentation of the project you decided to bring. The student is then examined for 20 minutes, including voting.
+The student must give a 10-minute presentation, followed by a 20-minute examination of the student, including grading. 
+
+In the presentation the student should demonstrate knowlege of some topics from the electives curriculum.
 
 **At the exam you will be evaluated on:**
 

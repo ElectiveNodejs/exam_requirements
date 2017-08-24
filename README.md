@@ -32,5 +32,5 @@ The student can
 
 You must be able to talk about the content of the curriculum, and you will be asked questions based on the curriculum as well.
 
-There is no other formal requirements.
+There are no other formal requirements.
 
